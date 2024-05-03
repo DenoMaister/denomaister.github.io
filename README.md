@@ -1,4 +1,4 @@
-# denomaister
+# DenoMaister
 
 ![Website](https://raw.githubusercontent.com/DenoMaister/beta.denomaister.hope/master/public/readme.png)
 
